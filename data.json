@@ -57,7 +57,7 @@
     "works": [
       {
         "hidden": false,
-        "name": "xero",
+        "name": "Xero",
         "images": [
           {
             "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Xero_software_logo.svg/1200px-Xero_software_logo.svg.png",
@@ -65,47 +65,22 @@
           }
         ],
         "description": [
-          "fg dfd df ",
-          "fg dfd df ",
-          "fg dfd df "
+          "Managing Users ",
+          "Chart of Accounts ",
+          "Products & Services ",
+          "Money In Transactions ",
+          "Money Out Transactions ",
+          "Bank Reconciliation ",
+          "Payroll Management ",
+          "VAT Return-UK "
         ]
       },
       {
         "hidden": false,
-        "name": "xero",
+        "name": "Quickbooks",
         "images": [
           {
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Xero_software_logo.svg/1200px-Xero_software_logo.svg.png",
-            "alt": "image"
-          }
-        ],
-        "description": [
-          "fg dfd df ",
-          "fg dfd df ",
-          "fg dfd df "
-        ]
-      },
-      {
-        "hidden": false,
-        "name": "xero",
-        "images": [
-          {
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Xero_software_logo.svg/1200px-Xero_software_logo.svg.png",
-            "alt": "image"
-          }
-        ],
-        "description": [
-          "fg dfd df ",
-          "fg dfd df ",
-          "fg dfd df "
-        ]
-      },
-      {
-        "hidden": false,
-        "name": "quickbook",
-        "images": [
-          {
-            "image": "https://image.pngaaa.com/467/296467-middle.png",
+            "image": "https://i.ibb.co/G2ZBtj3/Picture1.png",
             "alt": "image"
           }
         ],
